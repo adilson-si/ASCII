@@ -4,5 +4,5 @@
 
 <img src="img\ascii.png">
 
-- [x] Projeto primeiro repositório concluído 
+- [x] Desafio de projeto Projeto sobre Git / Github - primeiro repositório concluído 
 
